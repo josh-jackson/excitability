@@ -1,0 +1,48 @@
+---
+title: "Excitability"
+author: "Josh Jackson"
+date: "8/28/2019"
+output: html_document
+---
+
+#Load packages
+```{r}
+library(readr)
+library(psych)
+library(lavaan)
+library(tidyverse)
+```
+
+
+#Import data
+```{r}
+
+wave_1 <- read_csv("FSItemsOnly_T1.csv")
+wave_3 <- read_csv("FSItemsOnly_T3.csv")
+wave_5 <- read_csv("FSItemsOnly_T5.csv")
+wave_6 <- read_csv("FSItemsOnly_T6.csv")
+wave_8 <- read_csv("FSItemsOnly_T8.csv")
+wave_10 <- read_csv("FSItemsOnly_T10.csv")
+wave_12 <- read_csv("FSItemsOnly_T12.csv")
+wave_14 <- read_csv("FSItemsOnly_T14.csv")
+names <- read_csv("Longitudinal Factor Score Names.csv")
+outcomes <- read_csv("LongitudinalFS_Outcomes_forJJ828.csv")
+
+
+w_1 <- wave_1 %>% 
+  rename_all(paste0, "_1") %>% 
+  rename(Subid = Subid_1)
+  
+
+
+
+
+
+
+
+```
+
+# combine data waves
+```{r}
+
+```

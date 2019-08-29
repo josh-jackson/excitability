@@ -1,0 +1,35 @@
+﻿Variable Name,Variable Description,Factor Assigment
+sdint,Sad/unhappy intensity,Sadness
+luint,Looks unhappy ,Sadness
+pgint,Pathological guilt ,Sadness
+,,
+irint,Irritability intensity,Irritability
+irfrBIN1to5,Irritability frequency,Irritability
+trint,Tearfulness & crying ,Irritability
+taint,Touchy or easily annoyed ,Irritability
+arint,Angry or resentful intensity,Irritability
+ttint,Temper tantrums intensity,Irritability
+mcint,Mood cycling intensity,Irritability
+mcfrBIN1to5,Mood cycling frequency,Irritability
+efint,Easily frustrated intensity,Irritability
+,,
+elint,Elated/expansive mood ,Excitability
+tkint,More talkative than usual ,Excitability
+ilint,"Inappropriate laughing, joking ",Excitability
+ugint,Uninhibited gregariousness ,Excitability
+maarint,Motor pressure/,Excitability
+mpint,Agitation ,Excitability
+ueint,Unusually energetic ,Excitability
+grint,Grandiosity ,Excitability
+grctint,Grandiosity concern to caretakers ,Excitability
+fiint,Flight of ideas intensity,Excitability
+pjint,Poor judgment intensity,Excitability
+isiint,Inappropriate sexual interest ,Excitability
+islint,Inappropriate sexual language ,Excitability
+dcint,Decreased concentration ,Excitability
+dnsint,Decreased need for sleep ,Excitability
+sbint,Suicide and self injurious behavior screen ,Excitability
+,,
+anint,Anhedonia intensity,Anhedonia
+liint,Loss of interest ,Anhedonia
+aint,Anergia ,Anhedonia
